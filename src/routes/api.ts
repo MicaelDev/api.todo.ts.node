@@ -2,7 +2,6 @@ import { Router } from 'express';
 
 import * as TodoController from '../controllers/todo.controller';
 
-
 const router = Router();
 
 //#region Todo Routes
